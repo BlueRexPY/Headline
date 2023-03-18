@@ -1,2 +1,2 @@
 # Headline
-программа для создания красивых заголовков для программ
+Program for creating beautiful titles for programs
